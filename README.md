@@ -1,6 +1,7 @@
 # Kaggle-quora-insincere-questions-classification
 
-https://www.kaggle.com/c/quora-insincere-questions-classification
+- [Competition Link](https://www.kaggle.com/c/quora-insincere-questions-classification)
+- [Personal attempt](https://www.kaggle.com/praxitelisk/quora-insincere-questions-classification-dl)
 
 ### The notebook was created and executed in Kaggle online premises. It is still on early form and more experiments must be done. The Jupyter notebook above contains my early attempt to the competition.
 
